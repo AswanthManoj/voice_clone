@@ -13,6 +13,7 @@ This repository contains code for a voice cloning project that combines Whisper 
    - Recommended for short audio clonings with very short text (less than 15 seconds) containing one or two lines.
    - The cloned voices produced with this method may take more time to generate, very long....
    - You can add custom audio samples to generate final cloned audio output.
+   - ![Code Architecture](code_architecture/tortoise-tts.png)
 
 ## Colab Notebook
 
