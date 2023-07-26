@@ -6,6 +6,7 @@ This repository contains code for a voice cloning project that combines Whisper 
    - This code allows for faster inference but is only available for a single voice output.
    - It uses Whisper for translation and ttsmms for generating dubbed voice.
    - Use this for generating audio dubbings that are longer in duration.
+   - ![Code Architecture](code_architecture/ttsmms.png)
 
 2. Slow Inference (Multi-Voice Cloning):
    - This code provides cleaner and clearer cloned voices that mimic the sample vocal's characteristics.
