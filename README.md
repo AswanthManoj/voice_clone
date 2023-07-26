@@ -2,13 +2,6 @@
 
 This repository contains code for a voice cloning project that combines Whisper (for translation) and Tortoise-TTS (for voice cloning). There are two sets of codes provided:
 
-+-----------------------+ 
-| Malayalam Audio input |
-+-----------------------+
- |
-\ /
- v
-
 1. Fast Inference (Single Voice Cloning):
    - This code allows for faster inference but is only available for a single voice output.
    - It uses Whisper for translation and ttsmms for generating dubbed voice.
