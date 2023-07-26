@@ -5,6 +5,9 @@ This repository contains code for a voice cloning project that combines Whisper 
 +-----------------------+ 
 | Malayalam Audio input |
 +-----------------------+
+ |
+\ /
+ v
 
 1. Fast Inference (Single Voice Cloning):
    - This code allows for faster inference but is only available for a single voice output.
